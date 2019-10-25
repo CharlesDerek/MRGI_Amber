@@ -1,4 +1,4 @@
-##MRGInnovations Software & Technology
+## MRGInnovations Software & Technology
 ------------------------------------
 Programmer: Charles Derek
 
