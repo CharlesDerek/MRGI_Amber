@@ -28,7 +28,7 @@ sse = []
 statistics = []
 
 [dependencies]
-crossbeam-channel = "0.1.2"
+crossbeam-channel = "0.4.4"
 ctrlc             = "3.1.0"
 dirs              = "1.0.4"
 getch             = "0.2.0"
